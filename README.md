@@ -1,5 +1,6 @@
 # AtliQ Grands — Revenue & Performance Analysis (Power BI)
 
+
 ![AtliQ Hospitality Analysis](Screenshots/AtliQ_Hospitality_Analysis.png)
 
 🔗 **Live Power BI Dashboard:**  
@@ -79,30 +80,36 @@ Long-stay discounts and corporate plans reduce dependence on Luxury rooms and sm
 
 1️⃣ **Revenue Trend by Week** 
 
+
 ![Revenue Trend by Week](Screenshots/Revenue_Trend_by_Week.png)
 
 
-2️⃣ **RevPAR by Week & Day Type** 
+2️⃣ **RevPAR by Week & Day Type**
+
 
 ![RevPAR by Week and Day Type](Screenshots/RevPAR_by_Week_and_DayType.png)
 
 
 3️⃣ **DSRN by Week & Category** 
 
+
 ![DSRN by Week and Category](Screenshots/DSRN_by_Week_and_Category.png)
 
 
 4️⃣ **Occupancy by Week & Day Type** 
+
 
 ![Occupancy by Week and Day Type](Screenshots/Occupancy_by_Week_and_DayType.png)
 
 
 5️⃣ **ADR by Week & Category** 
 
+
 ![ADR by Week and Category](Screenshots/ADR_by_Week_and_Category.png)
 
 
 6️⃣ **Realisation % by Week & Day Type** 
+
 
 ![Realisation % by Week and Day Type](Screenshots/Realisation_by_Week_and_DayType.png)
 
