@@ -27,12 +27,19 @@ Time Analyzed: 3 months of booking data
 🔍 What this project covers
 
 ✔ Multi-table data modeling using multiple CSV sources
+
 ✔ Star-schema design (Fact + Dimension tables)
+
 ✔ End-to-end data transformation and relationships
+
 ✔ Hospitality KPI framework
+
 ✔ Interactive slicers (City, Room Class, Time)
+
 ✔ Weekday vs Weekend performance analysis
+
 ✔ Booking platform comparison
+
 ✔ Property-level deep dive
 
 📊 Key KPIs Analyzed
