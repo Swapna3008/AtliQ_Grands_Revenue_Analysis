@@ -1,4 +1,4 @@
-# AtliQ Grands — Revenue & Performance Analysis (Power BI)
+# AtliQ Grands — Revenue & Performance Analysis
 
 
 ![AtliQ Hospitality Analysis](Screenshots/AtliQ_Hospitality_Analysis.png)
